@@ -16,5 +16,5 @@ I'm a Software Engineer, digital marketer, and Chartered financial analyst who s
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eniolalawal&show_icons=true&include_all_commits=true&hide_border=true" alt="Eniola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniolalawal&langs_count=8&layout=compact&hide_border=true" alt="Eniola's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eniola-Lawal&show_icons=true&include_all_commits=true&hide_border=true" alt="Eniola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniola-Lawal&langs_count=8&layout=compact&hide_border=true" alt="Eniola's GitHub stats" /> |
 | ------------- | ------------- |
